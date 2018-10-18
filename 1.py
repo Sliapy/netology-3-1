@@ -6,5 +6,10 @@ d = OrderedDict([
     ('pineapple', 2),
     ('apple', 1),
 ])
-#добавлен комментарий
+# добавлен комментарий
 print(d.keys())
+
+
+# TODO: сделать красивый вывод
+print(d.values())
+
