@@ -9,7 +9,5 @@ d = OrderedDict([
 # добавлен комментарий
 print(d.keys())
 
-
-# TODO: сделать красивый вывод
 print(d.values())
 
